@@ -2,6 +2,9 @@
 
 The Twitter bundle provides Twitter integration.
 
+[![Code Climate](https://codeclimate.com/github/DigitalState/Platform-Twitter-Bundle/badges/gpa.svg)](https://codeclimate.com/github/DigitalState/Platform-Twitter-Bundle)
+[![Test Coverage](https://codeclimate.com/github/DigitalState/Platform-Twitter-Bundle/badges/coverage.svg)](https://codeclimate.com/github/DigitalState/Platform-Twitter-Bundle/coverage)
+
 ## Table of Contents
 
 - [System Configuration](#aystem-configuration)
